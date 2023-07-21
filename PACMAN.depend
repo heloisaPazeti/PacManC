@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688688078 source:d:\faculdade\lab icc\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"desenho.h"
+
+1688688086 d:\faculdade\lab icc\pacman\desenho.h
+
